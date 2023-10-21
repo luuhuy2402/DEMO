@@ -14,6 +14,7 @@ namespace Ngay29_9_
         [STAThread]
         static void Main()
         {
+            // toi da sua
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
